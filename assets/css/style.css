@@ -1,0 +1,50 @@
+body {
+	background-image: url("../images/dark-paths.png");
+	margin: 0px;
+	padding: 0px;
+}
+
+.buttons-view {
+	margin: 20px 0px 20px 0px;
+}
+
+.gifDiv {
+	margin-right: 10px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+label {
+	color: orange;
+	text-align: center;
+}
+
+.gifDiv {
+	color: orange;
+}
+
+.col-centered {
+    margin: auto;
+    float:none;
+}
+
+.topic {
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: orange;
+	color: white;
+	font-weight: bold;
+}
+
+#add-topic {
+	background-color: orange;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#topic-input {
+	width: 100%;
+	margin-top: 2px;
+}
